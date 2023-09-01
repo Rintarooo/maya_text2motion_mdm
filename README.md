@@ -1,5 +1,13 @@
 # Python script for text-to-motion in Maya
 
+https://github.com/Rintarooo/maya_text2motion_mdm/assets/51239551/15a428dd-3b46-4971-a64b-393aa3c325cc
+
+
+
+https://github.com/Rintarooo/maya_text2motion_mdm/assets/51239551/ba86a1e7-dbcb-426a-b98e-c39407b10fae
+
+
+
 ## Overview
 This repo works on generating skelton with 3d motion from text prompt and retarget from skelton to human 3D model using HumanIK in Maya. 
 
